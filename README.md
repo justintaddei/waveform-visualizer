@@ -1,4 +1,4 @@
-# wave_visualize
+# Waveform Visualizer
 
 ## Project setup
 ```
